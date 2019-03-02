@@ -120,5 +120,5 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-STATIC_ROOT = '/home/ambrocio/DGproject/blog/static'
+STATIC_ROOT = '/home/ambrocio/DGproject/static'
 #hola
