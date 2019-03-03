@@ -121,7 +121,7 @@
         <option value="$PROJECT_DIR$/mysite/settings.py" />
         <option value="$PROJECT_DIR$/blog/templates/blog/post_list.html.py" />
         <option value="$PROJECT_DIR$/blog/exo.py" />
-        <option value="$USER_HOME$/Documents/TEC/Lenguahes y Automatas 1/ProgramasTareas/Tarea2_Validador/version1.py" />
+        <option value="$PROJECT_DIR$/../../../Lenguahes y Automatas 1/ProgramasTareas/Tarea2_Validador/version1.py" />
         <option value="$PROJECT_DIR$/mysite/urls.py" />
         <option value="$PROJECT_DIR$/blog/static/css/blog.css" />
         <option value="$PROJECT_DIR$/blog/templates/blog/post_list.html" />
@@ -224,11 +224,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/TEC/Lenguahes y Automatas 1/ProgramasTareas/Tarea2_Validador" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../Lenguahes y Automatas 1/ProgramasTareas/Tarea2_Validador" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/TEC/Lenguahes y Automatas 1/ProgramasTareas/Tarea2_Validador/version1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../Lenguahes y Automatas 1/ProgramasTareas/Tarea2_Validador/version1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -307,7 +307,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/Documents/TEC/Lenguahes y Automatas 1/ProgramasTareas/Tarea2_Validador/version1.py">
+    <entry file="file://$PROJECT_DIR$/../../../Lenguahes y Automatas 1/ProgramasTareas/Tarea2_Validador/version1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" />
