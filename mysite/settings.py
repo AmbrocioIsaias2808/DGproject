@@ -26,7 +26,7 @@ SECRET_KEY = 'ay9q48r6i0zm%4j(h^9drc9!nvgwl5q7pvs_ib&nu3cc$w646*'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'ambrocio.pythonanywhere.com/']
+ALLOWED_HOSTS = ['127.0.0.1', 'ambrocio.pythonanywhere.com']
 
 # Application definition
 
@@ -119,3 +119,5 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.1/howto/static-files/
 
 STATIC_URL = '/static/'
+
+STATIC_ROOT = '/home/ambrocio/DGproject/blog/static'
